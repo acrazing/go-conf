@@ -1,0 +1,10 @@
+{
+  "db": {
+    "url": "https://www.google.com/"
+  },
+  "nested": {
+    "store": {
+      "path": "/"
+    }
+  }
+}
